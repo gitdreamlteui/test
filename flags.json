@@ -572,6 +572,9 @@
     "responsive_web_ad_revenue_sharing_pay_period_enabled": {
         "value": false
     },
+    "responsive_web_ad_revenue_sharing_total_earnings_enabled": {
+        "value": false
+    },
     "responsive_web_ad_revenue_sharing_number_of_impressions": {
         "value": 0
     },
