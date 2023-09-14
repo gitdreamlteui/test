@@ -24,6 +24,14 @@
         "value": false
     },
 
+   "xprofile_consumption_enabled": {
+        "value": false
+    },
+
+   "xprofile_editing_enabled": {
+        "value": false
+    },
+
     "blue_business_multi_affiliates_ui_enabled": {
         "value": false
     },
