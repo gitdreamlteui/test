@@ -23,6 +23,9 @@
    "subscriptions_premium_tiers_switching_enabled": {
         "value": false
     },
+   "subscriptions_feature_send_dm_to_support_via_settings": {
+        "value": false
+    },
 
    "xprofile_consumption_enabled": {
         "value": false
