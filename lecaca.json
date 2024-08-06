@@ -20,7 +20,7 @@
     "blue_business_affiliates_list_order_setting_enabled": {
         "value": false
     },
-    "blue_business_analytics": {
+    "rweb_analytics_export_data_enabled": {
         "value": false
     },
     "blue_business_cancel_offer": {
