@@ -11,7 +11,7 @@
     "ads_spacing_client_fallback_minimum_spacing_verified_blue": {
         "value": 0
     },
-    "payments_enabled": {
+    "articles_rest_api_enabled": {
         "value": false
     },
     "blue_business_admin_sidebar_module_enabled": {
@@ -20,7 +20,7 @@
     "blue_business_affiliates_list_order_setting_enabled": {
         "value": false
     },
-    "rweb_analytics_export_data_enabled": {
+    "blue_business_analytics": {
         "value": false
     },
     "blue_business_cancel_offer": {
@@ -47,6 +47,9 @@
     "blue_business_vo_nav_for_legacy_verified": {
         "value": false
     },
+    "blue_longer_video_enabled": {
+        "value": false
+    },
     "branded_like_preview_enabled": {
         "value": false
     },
@@ -63,6 +66,9 @@
         "value": false
     },
     "c9s_community_hashtags_carousel_enabled": {
+        "value": false
+    },
+    "c9s_community_hashtags_enabled": {
         "value": false
     },
     "c9s_community_list_setting_enabled": {
@@ -173,7 +179,7 @@
     "dash_region_specific_de_media_transparency_items_enabled": {
         "value": false
     },
-    "dm_bulk_delete_enabled": {
+    "dm_message_edit_enabled": {
         "value": false
     },
     "dm_conversation_labels_max_pinned_count": {
