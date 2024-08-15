@@ -14,7 +14,7 @@
     "articles_rest_api_enabled": {
         "value": false
     },
-    "blue_business_admin_sidebar_module_enabled": {
+    "rweb_analytics_device_breakdown_enabled": {
         "value": false
     },
     "blue_business_affiliates_list_order_setting_enabled": {
