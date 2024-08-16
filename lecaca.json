@@ -119,14 +119,14 @@
     "communities_analytics_enabled": {
         "value": false
     },
-    "communities_enable_explore_tab": {
+    "conversational_replies_downvote_api_enabled": {
         "value": false
     },
-    "communities_enable_explore_topic_carousel": {
+    "conversational_replies_downvote_enabled": {
         "value": false
     },
-    "communities_home_top_timeline_enabled": {
-        "value": false
+    "conversational_replies_downvote_immersive_enabled": {
+        "value": true
     },
     "communities_topic_carousel_enabled": {
         "value": false
