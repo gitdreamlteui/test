@@ -17,10 +17,10 @@
     "rweb_analytics_device_breakdown_enabled": {
         "value": false
     },
-    "blue_business_affiliates_list_order_setting_enabled": {
+    "rweb_spatial_audio_enabled": {
         "value": false
     },
-    "blue_business_analytics": {
+    "rweb_conf_enabled": {
         "value": false
     },
     "blue_business_cancel_offer": {
