@@ -116,7 +116,7 @@
     "communities_adult_content_setting_enabled": {
         "value": false
     },
-    "communities_analytics_enabled": {
+    "responsive_web_grok_animated_text_enabled": {
         "value": false
     },
     "conversational_replies_downvote_api_enabled": {
