@@ -32,10 +32,10 @@
     "blue_business_multi_affiliates_ui_enabled": {
         "value": false
     },
-    "blue_business_tier_switching_enabled": {
+    "payments_enabled": {
         "value": false
     },
-    "blue_business_username_change_prompt_enabled": {
+    "payments_pin_enabled": {
         "value": false
     },
     "blue_business_verified_admin_cancellation_flow_enabled": {
