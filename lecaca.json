@@ -11,7 +11,7 @@
     "ads_spacing_client_fallback_minimum_spacing_verified_blue": {
         "value": 0
     },
-    "articles_rest_api_enabled": {
+    "rweb_group_dm_conf_enabled": {
         "value": false
     },
     "rweb_analytics_device_breakdown_enabled": {
