@@ -23,7 +23,7 @@
     "rweb_conf_enabled": {
         "value": false
     },
-    "blue_business_cancel_offer": {
+    "dm_edit_dms_overflow_menu_enabled": {
         "value": false
     },
     "blue_business_direct_invites_enabled": {
