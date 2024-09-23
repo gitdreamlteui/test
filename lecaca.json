@@ -29,7 +29,7 @@
     "blue_business_direct_invites_enabled": {
         "value": false
     },
-    "blue_business_multi_affiliates_ui_enabled": {
+    "insights_previews_enabled": {
         "value": false
     },
     "payments_enabled": {
