@@ -2,7 +2,7 @@
     "2fa_temporary_password_enabled": {
         "value": false
     },
-    "ad_categories_setting_enabled": {
+    "xprofile_blocked_by_view_enabled": {
         "value": false
     },
     "ads_spacing_client_fallback_minimum_spacing": {
